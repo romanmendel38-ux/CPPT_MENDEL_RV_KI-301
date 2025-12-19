@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"temp","l":"Copyable","k":"10"},{"p":"temp","l":"CopyingMachine"},{"p":"temp","l":"CopyingMachineDriver"},{"p":"temp","l":"ImageProcessor"},{"p":"temp","l":"Logger"},{"p":"temp","l":"Main"},{"p":"temp","l":"MemoryUnit"},{"p":"temp","l":"OpticalSystem"}];updateSearchResults();
